@@ -26,6 +26,7 @@ class _AddNewsScreenState extends State<AddNewsScreen> {
   void dispose() {
     _titleController.dispose();
     _descriptionController.dispose();
+    loading = false;
     super.dispose();
   }
 
