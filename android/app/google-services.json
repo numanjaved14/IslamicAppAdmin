@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "89999085403",
+    "project_id": "islamicprayerapp",
+    "storage_bucket": "islamicprayerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89999085403:android:0624667dc9df2bf72c547e",
+        "android_client_info": {
+          "package_name": "com.example.islamic_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89999085403-7i5bhlme9prnvlhc6j5c4332r0sdlkv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTKPwb7BCwSfw9ElweoAu_jahbg9Ig7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89999085403-7i5bhlme9prnvlhc6j5c4332r0sdlkv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89999085403:android:9f0cb1417f7fca612c547e",
+        "android_client_info": {
+          "package_name": "com.example.islamicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89999085403-7i5bhlme9prnvlhc6j5c4332r0sdlkv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTKPwb7BCwSfw9ElweoAu_jahbg9Ig7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89999085403-7i5bhlme9prnvlhc6j5c4332r0sdlkv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
